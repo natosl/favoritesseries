@@ -1,1 +1,1 @@
-você coloca a URL de um filme/série que quer assistir, a imagem fica salva e você pode salvar para não esquecer de ver.
+você pode colocar o endereço da imagem de um filme/série que quer ver e ela fica salva no site. com o (ctrl S) ela fica salva no seu computador para você lembrar de assistir mais tarde. 
